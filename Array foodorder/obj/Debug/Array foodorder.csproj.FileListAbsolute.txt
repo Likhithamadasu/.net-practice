@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Array foodorder\Array foodorder\bin\Debug\Array foodorder.exe.config
+C:\Users\DELL\source\repos\Array foodorder\Array foodorder\bin\Debug\Array foodorder.exe
+C:\Users\DELL\source\repos\Array foodorder\Array foodorder\bin\Debug\Array foodorder.pdb
+C:\Users\DELL\source\repos\Array foodorder\Array foodorder\obj\Debug\Array foodorder.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Array foodorder\Array foodorder\obj\Debug\Array foodorder.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Array foodorder\Array foodorder\obj\Debug\Array foodorder.exe
+C:\Users\DELL\source\repos\Array foodorder\Array foodorder\obj\Debug\Array foodorder.pdb
